@@ -2,6 +2,8 @@ node_modules/
 contracts/artifacts/
 cachce/
 typechain/
+.deps/
+.lern
 
 .env
 .env.local
