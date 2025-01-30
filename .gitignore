@@ -1,0 +1,7 @@
+node_modules/
+artifacts/
+cachce/
+typechain/
+
+.env
+.env.local
